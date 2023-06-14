@@ -29,6 +29,6 @@ class MajorityElement{
         else{
             System.out.println(-1);
         }
-
+        s.close();
     }
 }
